@@ -1,0 +1,8 @@
+#忽略所有日志文件
+*.log
+*.tlog
+#忽略Debug文件
+Debug/
+cvblob/Debug/ 
+#忽略预编译的头文件 和Intellisense 
+ipch/
